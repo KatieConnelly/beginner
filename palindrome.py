@@ -25,3 +25,6 @@ def palidrome():
         print "Your Loss!"
 
 palidrome()
+
+def balls():
+    print "hi"
